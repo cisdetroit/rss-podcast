@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
 <channel>
-	<title>Slotopulsa</title>
+	<title>Mpogacor</title>
 	<itunes:author>2022</itunes:author>
-	<link>https://www.vertustech.com/</link>
+	<link>https://newmonasticism.org/</link>
 	<itunes:subtitle></itunes:subtitle>
 	<itunes:summary><language>en-us</language>
 	<copyright> by 2022</copyright>
@@ -16,7 +16,7 @@
 	    <itunes:category text=""/>
 	</itunes:category>
 	<item>
-	    <title>Slotopulsa</title>
+	    <title>Mpogacor</title>
 	    <itunes:author>2022</itunes:author>
 	    <itunes:subtitle></itunes:subtitle>
 	    <itunes:summary></itunes:summary>
