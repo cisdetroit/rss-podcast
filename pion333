@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
+<channel>
+	<title>pion333</title>
+	<itunes:author>2022</itunes:author>
+	<link>https://xn--pin333-cxa.com/</link>
+	<itunes:subtitle></itunes:subtitle>
+	<itunes:summary><language>en-us</language>
+	<copyright> by 2022</copyright>
+	<itunes:owner>
+	    <itunes:name>2022</itunes:name>
+	    <itunes:email>andregivense@gmail.com</itunes:email>
+	</itunes:owner>
+	<itunes:image href="https://i.ytimg.com/vi/X5Dm8QMBE_c/maxresdefault.jpg" />
+	<itunes:category text="Arts">
+	    <itunes:category text=""/>
+	</itunes:category>
+	<item>
+	    <title>pion333</title>
+	    <itunes:author>2022</itunes:author>
+	    <itunes:subtitle></itunes:subtitle>
+	    <itunes:summary></itunes:summary>
+	    <enclosure url="http://" length="" type="audio/x-m4a" />
+	    <pubDate>,    :: </pubDate>
+	    <itunes:category text="Arts">
+		    <itunes:category text=""/>
+	    </itunes:category>
+	    <itunes:duration></itunes:duration>
+	    <itunes:explicit></itunes:explicit>
+	    <itunes:keywords></itunes:keywords>
+	</item>
+</channel>
+</rss>
